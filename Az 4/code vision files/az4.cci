@@ -1,0 +1,10 @@
+VERSION:3 SOURCE_TIMESTAMP:537D55B0
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:V LEVEL:0 LINE:27 "counter -> R4,R5"
+NODE:V LEVEL:0 LINE:28 "i -> R6,R7"
+NODE:V LEVEL:0 LINE:28 "j -> R8,R9"
+NODE:V LEVEL:0 LINE:28 "c -> R10,R11"
+NODE:V LEVEL:0 LINE:28 "flage -> R12,R13"
+NODE:F LEVEL:0 LINE:30 "seven_seg_number_generator(int x)"
+NODE:F LEVEL:0 LINE:74 "main(void)"
