@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:539B0DDB
+NODE:I LEVEL:0 LINE:24 "C:\cvavr\inc\mega32.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr\inc\delay.h"
+NODE:I LEVEL:0 LINE:30 "C:\cvavr\inc\alcd.h"
+NODE:V LEVEL:0 LINE:33 "pot_input -> R4,R5"
+NODE:V LEVEL:0 LINE:34 "pot_input_float -> RAM:????"
+NODE:V LEVEL:0 LINE:35 "pot_str -> RAM:????"
+NODE:I LEVEL:0 LINE:38 "C:\cvavr\inc\stdio.h"
+NODE:M LEVEL:0 LINE:41 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:45 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:58 "main(void)"
