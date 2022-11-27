@@ -1,0 +1,38 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+nums                                                                              0x0266       1
+results                                                                           0x0267       1
+counter                                                                           0x0268       2
+_seed                                                                             0x026A       4
+_base_y                                                                           0x026E       4
+_lcd_x                                                                            0x0272       1
+_lcd_y                                                                            0x0273       1
+_lcd_maxx                                                                         0x0274       1
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+A                                                                                 R4,R5        2
+B                                                                                 R6,R7        2
+C                                                                                 R8,R9        2
+operater                                                                          R10,R11      2
+result                                                                            R12,R13      2
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+num_printer                                                                       0x00071     16
+main                                                                              0x00081    485
+itoa                                                                              0x00266     46
+_lcd_write_nibble_G101                                                            0x00294     20
+_lcd_write_data                                                                   0x002A8     12
+lcd_gotoxy                                                                        0x002B4     17
+lcd_clear                                                                         0x002C5     14
+lcd_putchar                                                                       0x002D3     32
+lcd_puts                                                                          0x002F3     17
+lcd_init                                                                          0x00304     46
